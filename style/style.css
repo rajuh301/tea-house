@@ -1,0 +1,23 @@
+/* --------------------------fonts--------------- */
+  @import url('https://fonts.googleapis.com/css2?family=Manrope:wght@800&family=Open+Sans:ital@0;1&family=Poppins:wght@500;600&family=Work+Sans:wght@700&display=swap');
+
+
+body{
+    font-family: 'Manrope', sans-serif;
+  
+}
+
+#my-color{
+  background-image: linear-gradient(to bottom right,#FF8938,#FF0000);
+}
+
+
+.btn-bg{
+  background-image: linear-gradient(to bottom right,#FF8938,#FF0000);
+}
+
+.my-btn{
+  background-image: linear-gradient(to bottom right,#FF8938,#FF0000);
+
+}
+
